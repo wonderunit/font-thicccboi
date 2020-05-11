@@ -1,6 +1,7 @@
-# font-thicccboi
+# THICCCBOI FONT
 A free and open source font by Wonder Unit
 
+![](https://raw.githubusercontent.com/wonderunit/font-thicccboi/master/images/thicccboi%20font%20display.png)
 
 FONT
 
