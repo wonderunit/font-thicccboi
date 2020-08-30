@@ -3,6 +3,14 @@ A free and open source font by Wonder Unit
 
 ![](https://raw.githubusercontent.com/wonderunit/font-thicccboi/master/images/thicccboi%20font%20display.png)
 
+
+# TODO
+
+- [ ] Add last glyphs (German B, Fractions)
+- [ ] Add Cyrillic (Russian Characters)
+- [ ] Alt characters for a
+- [ ] Symbol icons for wonder unit apps
+
 FONT
 
 ## Weights
