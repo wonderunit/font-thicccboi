@@ -15,29 +15,29 @@ FONT
 
 ## Weights
 
-100 - Thin
-200 - Extra Light
-300 - Light
-400 - Regular
-500 - Medium
-600 - Semi Bold
-700 - Bold
-800 - Extra bold
-900 - Black
-950 - Heavy
+100 - Thin  
+200 - Extra Light  
+300 - Light  
+400 - Regular  
+500 - Medium  
+600 - Semi Bold  
+700 - Bold  
+800 - Extra bold  
+900 - Black  
+950 - Heavy  
 
 ## Metrics
 
-x-Height: 500
+x-Height: 500  
 
-Ascender: 800
-Cap Height: 700
-Descender: -200
-Italic Angle: 0
+Ascender: 800  
+Cap Height: 700  
+Descender: -200  
+Italic Angle: 0  
 
-THIN: Alignment Zones: 10
-BLACK: Alignment Zones: 15
-
+THIN: Alignment Zones: 10  
+BLACK: Alignment Zones: 15  
+```
 (
         {
         typoAscender = 800;
@@ -67,11 +67,12 @@ BLACK: Alignment Zones: 15
         strikeoutSize = 50;
     }
 )
-
+```
 
 ## Spacing
 
 ### Thin
+```
 a: 45 80
 c: 45 35
 d: 45 80
@@ -111,6 +112,7 @@ W: 33 33
 Y: 10 10
 Z: 45 35
 Numeral fixed width: 570
+```
 
 ### Black
 
@@ -119,31 +121,31 @@ Numeral fixed width: 570
 
 ## Features
 
-pnum
-tnum
-ss01
+pnum  
+tnum  
+ss01  
 
 
 ## COMPONENTS
 
 ### Lowercase
 
-shoulder
-stem
-short stem (nm)
-a loop
-e
-s
-f top
-g Descender
-j Descender
-k
-o
-r
-s
-t tail
-v
-w
-x
-y
-z
+shoulder  
+stem  
+short stem (nm)  
+a loop  
+e  
+s  
+f top  
+g Descender  
+j Descender  
+k  
+o  
+r  
+s  
+t tail  
+v  
+w  
+x  
+y  
+z  
