@@ -9,6 +9,7 @@ A free and open source font by Wonder Unit
 * 10 Weights from 100: Thin to 950: Heavy
 * Full Mac Roman / Windows 1252 Set
 * Latin Diacritics for Western European Languages
+* Alternate set for a, b, d, h, i, t for style
 * Special Centered Colon for Times
 * Superior Kerning Table that I've redone multiple times
 
