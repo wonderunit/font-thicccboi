@@ -3,12 +3,15 @@ A free and open source font by Wonder Unit
 
 ![](https://raw.githubusercontent.com/wonderunit/font-thicccboi/master/images/thicccboi%20font%20display.png)
 
+# Download: https://github.com/wonderunit/font-thicccboi/releases/tag/v1.2
+
 # Features
 
 * Geometric San Serif Glyphs
 * 10 Weights from 100: Thin to 950: Heavy
 * Full Mac Roman / Windows 1252 Set
 * Latin Diacritics for Western European Languages
+* Alternate set for a, b, d, h, i, t for style
 * Special Centered Colon for Times
 * Superior Kerning Table that I've redone multiple times
 
@@ -40,6 +43,5 @@ FONT
 * Cap Height: 700
 * Descender: -200
 * Italic Angle: 0
-
 * THIN: Alignment Zones: 10
 * BLACK: Alignment Zones: 15
