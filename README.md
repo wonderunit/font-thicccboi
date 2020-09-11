@@ -40,6 +40,5 @@ FONT
 * Cap Height: 700
 * Descender: -200
 * Italic Angle: 0
-
 * THIN: Alignment Zones: 10
 * BLACK: Alignment Zones: 15
