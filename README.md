@@ -3,7 +3,7 @@ A free and open source font by Wonder Unit
 
 ![](https://raw.githubusercontent.com/wonderunit/font-thicccboi/master/images/thicccboi%20font%20display.png)
 
-# Download: https://github.com/wonderunit/font-thicccboi/releases/tag/v1.2
+# Download: https://github.com/wonderunit/font-thicccboi/releases/
 
 # Features
 
